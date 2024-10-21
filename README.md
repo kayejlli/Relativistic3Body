@@ -4,7 +4,7 @@ This repository contain the mathematic script of the paper (with arXiv link:). P
 ## Correspondance
 $K_{(b), 1, 0} == \text{HInner1PN}$ 
 
-$K_{(b), 1, 2} == \text{HOuter1PN}$
+$K_{(b), 1, 1} == \text{HOuter1PN}$
 
 $K_{(0), 0, 3} == \text{Hquad0PN}$
 
